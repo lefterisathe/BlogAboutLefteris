@@ -1,0 +1,84 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    color: gray;
+    font-family: Arial, Sans-Serif;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: darkgray;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: gray;
+    color: white;
+}
+
+.navbar li{
+    float: left
+}
+
+pr{
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: wheat;
+    font-family: Arial, sans-serif;
+    font-size: large;
+}
+
+
+#h1_1{
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+#h2_1{
+    color: gray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#h3_1{
+    color: gray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#atag_1{
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+#atag_2{
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+pr{
+    color: gray;
+    font-family: Arial, sans-serif;
+}
+
+p{
+    color: gray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
